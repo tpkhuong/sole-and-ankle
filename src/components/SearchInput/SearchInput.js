@@ -44,9 +44,4 @@ const SearchIcon = styled(Icon)`
   height: 16px;
 `;
 
-var TestIcon = styled.div`
-  width: 10px;
-  height: 10px;
-`;
-
 export default SearchInput;
